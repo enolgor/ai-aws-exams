@@ -1,0 +1,86 @@
+{
+  "name": "SAA-C03",
+  "description": "AWS Certified Solutions Architect - Associate",
+  "domains": [
+    {
+      "number": 1,
+      "name": "Design Secure Architectures",
+      "tasks": [
+        {
+          "number": 1,
+          "name": "Design secure access to AWS resources"
+        },
+        {
+          "number": 2,
+          "name": "Design secure workloads and applications"
+        },
+        {
+          "number": 3,
+          "name": "Determine appropriate data security controls"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Design Resilient Architectures",
+      "tasks": [
+        {
+          "number": 1,
+          "name": "Design scalable and loosely coupled architectures"
+        },
+        {
+          "number": 2,
+          "name": "Design highly available and/or fault-tolerant architectures"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Design High-Performing Architectures",
+      "tasks": [
+        {
+          "number": 1,
+          "name": "Determine high-performing and/or scalable storage solutions"
+        },
+        {
+          "number": 2,
+          "name": "Design high-performing and elastic compute solutions"
+        },
+        {
+          "number": 3,
+          "name": "Determine high-performing database solutions"
+        },
+        {
+          "number": 4,
+          "name": "Determine high-performing and/or scalable network architectures"
+        },
+        {
+          "number": 5,
+          "name": "Determine high-performing data ingestion and transformation solutions"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Design Cost-Optimized Architectures",
+      "tasks": [
+        {
+          "number": 1,
+          "name": "Design cost-optimized storage solutions"
+        },
+        {
+          "number": 2,
+          "name": "Design cost-optimized compute solutions"
+        },
+        {
+          "number": 3,
+          "name": "Design cost-optimized database solutions"
+        },
+        {
+          "number": 4,
+          "name": "Design cost-optimized network architectures"
+        }
+      ]
+    }
+  ]
+}
